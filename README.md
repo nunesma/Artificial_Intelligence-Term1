@@ -1,4 +1,10 @@
 
+
+git remote add origin https://github.com/nunesma/Artificial_Intelligence-Term1.git
+git push -u origin master
+
+
+
 # Build a Game-playing Agent
 
 ![Example game of isolation](viz.gif)
